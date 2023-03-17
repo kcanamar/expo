@@ -6,6 +6,8 @@
 
 ### 🎉 New features
 
+- [iOS] Introduced native functions on the native component instances.
+
 ### 🐛 Bug fixes
 
 - [Android] Fixed `ReadableNativeMap` cannot be cast to the `Record`. ([#21773](https://github.com/expo/expo/pull/21773) by [@lukmccall](https://github.com/lukmccall))
